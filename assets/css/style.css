@@ -898,8 +898,8 @@ drawer-opener * {
   position: fixed;
   width: var(--size);
   height: var(--size);
-  bottom: 20px;
-  right: 20px;
+  bottom: 90px;
+  left: 20px;
   opacity: 0;
   pointer-events: none;
   -webkit-transition: opacity 0.3s ease-in-out, -webkit-transform 0.3s ease-in-out;
